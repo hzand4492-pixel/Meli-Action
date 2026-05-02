@@ -1,4 +1,4 @@
-name: دانلودر فایل
+name: دانلود لینک مستقیم فیلتر شده
 
 on:
   workflow_dispatch:
